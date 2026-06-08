@@ -2,7 +2,7 @@
 title: Figuring Things Out
 draft: false
 tags:
+  - "#swag"
 ---
  
-
-Testing testing I repeat testing 
+Figuring out this website; not my life. 

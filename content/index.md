@@ -1,7 +1,7 @@
 ---
-title: Welcome to Quartz
+title: MY WEBSITE
 ---
-# Hello World 
+
 
 [[test Note ]]
 This is a blank Quartz installation.

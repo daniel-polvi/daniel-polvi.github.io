@@ -1,7 +1,6 @@
 ---
-title: Example Title
+title: Living life
 draft: false
 tags:
-  - example-tag
 ---
 another test wtf 

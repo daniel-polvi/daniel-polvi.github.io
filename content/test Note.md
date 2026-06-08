@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Figuring Things Out
 draft: false
 tags:
 ---

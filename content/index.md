@@ -3,10 +3,9 @@ title: DAN'S WEBSITE
 draft: false
 subtitle: A chronicle of my life, for your eyes only
 ---
-This is my personal website. This will be the greatest website ever in the world. 
+Welcome to my website!!! 
+
+Check out this page: [[Figuring Things Out]] to see what this website is all about. 
 
 
-[[Theo's page]]
-
-[[Figuring Things Out]]
 

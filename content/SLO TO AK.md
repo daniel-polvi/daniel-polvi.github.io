@@ -1,6 +1,6 @@
 ---
 title: So it begins
-draft: true
+draft: false
 tags:
   - Alaska
 ---

@@ -1,6 +1,6 @@
 ---
 title: First Impressions on Life in Alaska
-draft: true
+draft: false
 tags:
   - "#Alaska"
 ---

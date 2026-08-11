@@ -3,6 +3,7 @@ title: First Impressions on Life in Alaska
 draft: false
 tags:
   - "#Alaska"
+  - Seward
 ---
 	Written:09-07-2026
 

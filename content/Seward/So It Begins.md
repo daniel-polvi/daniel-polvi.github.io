@@ -3,6 +3,7 @@ title: So It Begins
 draft: false
 tags:
   - Alaska
+  - Seward
 ---
 	Written:08-07-2026
 

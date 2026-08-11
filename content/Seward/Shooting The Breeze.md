@@ -3,6 +3,7 @@ title: Shooting The Breeze
 draft: false
 tags:
   - Alaska
+  - Seward
 ---
 	Written:11-07-2026
 

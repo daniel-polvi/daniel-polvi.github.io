@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Shooting The Breeze
 draft: false
 tags:
   - Alaska

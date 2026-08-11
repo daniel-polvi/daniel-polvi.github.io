@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: So It Begins
 draft: false
 tags:
   - Alaska

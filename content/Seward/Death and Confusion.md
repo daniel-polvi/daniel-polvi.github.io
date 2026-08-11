@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: Death and Confusion
 draft: false
 tags:
   - Alaska

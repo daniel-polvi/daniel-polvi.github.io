@@ -1,8 +1,12 @@
 ---
 title: Example Title
-draft: true
+draft: false
 tags:
+created: 2026-08-11
 ---
-	Written:11-08-2026
+
+
+
+
 
 

@@ -4,16 +4,8 @@ draft: false
 tags:
   - Alaska
   - Seward
-created: 2026-08-11
+created: 2026-07-15
 ---
-
-
-
-
-
-
-
-
 
 ​	I work at the Breeze inn restaurant and lounge. It's an interesting place. The food is normal, and the people are strange. There too all the people I live with work; them as housekeepers, I as a cook. I also do dishes. Today Sandra, an older woman from Colombia told me, "Haces más paradas que un autobús." meaning I have more stops than a bus. She actually typed it out on google translate and showed it to me. At first I didn't understand, it seemed kind of offensive, and having just looked it up, it is used for someone who is slow or makes a lot of stops in a story, but she was trying to tell me I do every station in the kitchen. It was nice. She is a really lovely woman, very hard worker too. She runs around doing the living shit out of the dishes. Sandra teaches me Spanish phrases as I told her a few days ago, "yo quiero apprender espanol". 
 

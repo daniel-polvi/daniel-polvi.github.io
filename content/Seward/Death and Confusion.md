@@ -4,7 +4,7 @@ draft: false
 tags:
   - Alaska
   - "#Seward"
-created: 2026-08-11
+created: 2026-07-23
 ---
 
 Frank, my co-worker at the breeze, died on the night of his 42nd birthday, 20th of July, 2026. Found dead in his bathtub the next morning surrounded by bottles. He was an alcoholic and we all knew that but he wasn't obviously suicidal, it made no sense and felt so tragic and unceremonious the way he died. The previous few days he had been drinking at work. I would come in at 6am, same time as him and catch him stumbling up the few stairs to the back door. You could smell it on his breath too, Vodka that is. Its strange to see someone so wasted so early in the morning. During work too he would be obviously out of it, and the other cooks would shouts for him to do something, and he just wouldn't really respond or always be fumbling and just zoned. I wonder what was on his mind in those moments, either far too much or just the blur of his current state. He would also often slip off the line to the back corner where his bag was, coming back with an ever stronger scent of liquor on his breath. 

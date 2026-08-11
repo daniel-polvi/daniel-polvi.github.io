@@ -4,12 +4,8 @@ draft: false
 tags:
   - Alaska
   - Seward
-created: 2026-08-11
+created: 2026-07-11
 ---
-
-
-
-
 
 Slo to Boise to Wisconsin to Seward: 
 I guess San Diego in there too. 

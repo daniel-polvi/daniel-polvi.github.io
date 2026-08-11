@@ -1,8 +1,8 @@
 ---
 title: Example Title
 draft: true
+created: {{date:DD-MM-YYYY}}
 tags:
-Date:
 ---
 	Written:{{date:DD-MM-YYYY}}
 

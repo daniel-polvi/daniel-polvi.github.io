@@ -1,12 +1,9 @@
 ---
 title: Example Title
-draft: false
+draft: true
+created: 11-08-2026
 tags:
-  - Alaska
-  - "#Seward"
-created: 27-07-2026
 ---
-
 	Written:27-07-2026
 
 Frank, my co-worker at the breeze, died on the night of his 42nd birthday, 20th of July, 2026. Found dead in his bathtub the next morning surrounded by bottles. He was an alcoholic and we all knew that but he wasn't obviously suicidal, it made no sense and felt so tragic and unceremonious the way he died. The previous few days he had been drinking at work. I would come in at 6am, same time as him and catch him stumbling up the few stairs to the back door. You could smell it on his breath too, Vodka that is. Its strange to see someone so wasted so early in the morning. During work too he would be obviously out of it, and the other cooks would shouts for him to do something, and he just wouldn't really respond or always be fumbling and just zoned. I wonder what was on his mind in those moments, either far too much or just the blur of his current state. He would also often slip off the line to the back corner where his bag was, coming back with an ever stronger scent of liquor on his breath. 
@@ -21,4 +18,6 @@ I have accepted only my own death, I certainly don't want to die, in fact, I do 
 
 The day I heard about Franks death was two days later, and was my Friday. It was raining pretty good all weekend so I found myself inside staring out the window at the rain hitting a puddle. Randomness on this scale is incomprehensible to me. But Frank's death was not random, actually quite predictable. Also quite preventable too, which makes it more sad. It was so obvious that he was running himself into the ground, but nobody around him cared enough to actually sit him down and say something that made him realize. 
 
-It was a gnarly introduction to 'adult life', though I have been very lucky to just find a job right away and a decent and cheap place to live, the work is bullshit and the world uncaring. This leads me to be confused because it is simply random why sometimes the universe is giving and nurturing to some, and relentlessly cruel and unforgiving to others. Maybe you get back what you put out, but this seems to be disproven by the vile but fortunate, and the virtuous but fucked over. I really don't know, suppose nobody does for sure; so much is just random. Maybe we chalk it up, "Never attribute to divinity that which can be adequately explained by randomness".  
+It was a gnarly introduction to 'adult life', though I have been very lucky to just find a job right away and a decent and cheap place to live, the work is bullshit and the world uncaring. This leads me to be confused because it is simply random why sometimes the universe is giving and nurturing to some, and relentlessly cruel and unforgiving to others. Maybe you get back what you put out, but this seems to be disproven by the vile but fortunate, and the virtuous but fucked over. I really don't know, suppose nobody does for sure; so much is just random. Maybe we chalk it up, "Never attribute to divinity that which can be adequately explained by randomness".  	Written:11-08-2026
+
+

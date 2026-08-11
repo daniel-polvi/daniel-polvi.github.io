@@ -1,11 +1,12 @@
 ---
-title: So It Begins
-draft: false
+title: Example Title
+draft: true
 tags:
   - Alaska
   - Seward
+created: 11-08-2026
 ---
-	Written:08-07-2026
+
 
 Slo to Boise to Wisconsin to Seward: 
 I guess San Diego in there too. 

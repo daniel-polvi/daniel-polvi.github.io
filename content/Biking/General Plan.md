@@ -1,5 +1,5 @@
 ---
-title: Example Title
+title: General Plan
 draft: false
 tags:
 ---

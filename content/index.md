@@ -13,7 +13,6 @@ The driving philosophy of making this public is the same philosophy that this pl
 
 This site is very much still in it's infancy, but feel free to poke around using the links below
 
-
 [[Seward/]]: essays I wrote while living in Seward, AK 
 
 [[Biking/]]: to see about my planning of my Bike trip

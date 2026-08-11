@@ -1,5 +1,5 @@
 ---
 title: Example Title
-draft: true
+draft: false
 tags:
 ---

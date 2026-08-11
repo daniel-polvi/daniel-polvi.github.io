@@ -1,11 +1,14 @@
 ---
 title: Example Title
-draft: true
+draft: false
 tags:
   - Alaska
   - Seward
-created: 11-08-2026
+created: 2026-08-11
 ---
+
+
+
 
 
 

@@ -1,10 +1,14 @@
 ---
-title: First Impressions on Life in Alaska
+title: Example Title
 draft: false
 tags:
   - "#Alaska"
   - Seward
+created: 2026-07-09
 ---
+
+
+
 	Written:09-07-2026
 
 Writing this from the bunkhouse on Port ave, Seward, AK, occupied by me, a 70 year woman, and 15 students from Kazakhstan. Things we all have in common: we live here and work at the breeze inn. 

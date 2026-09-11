@@ -2,8 +2,7 @@
 title: So It Begins
 draft: false
 tags:
-  - Alaska
-  - Seward
+  - biographical
 created: 2026-07-11
 ---
 

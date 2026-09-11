@@ -1,0 +1,14 @@
+---
+title: Crazy Idea
+draft: false
+tags:
+  - "#BIKE"
+created: 2026-08-11
+---
+I am formulating a plan to bike from Prudhoe Bay, Alaska to Ushuaia, Argentina. More specifically from [here](https://www.google.com/maps/place/East+Dock,+Arctic+Ocean/@70.312355,-148.3321772,1935m/data=!3m1!1e3!4m15!1m8!3m7!1s0xbc4c22b5bad109bf:0x5498473dba43ebfc!2sV9410+Ushuaia,+Tierra+del+Fuego+Province,+Argentina!3b1!8m2!3d-54.8076116!4d-68.3058409!16zL20vMDF6ZG5z!3m5!1s0x5120759a3e1e02bd:0x292409c926208f60!8m2!3d70.31438!4d-148.3182545!16s%2Fg%2F11tcsd8t1k?entry=ttu&g_ep=EgoyMDI2MDgxMC4wIKXMDSoASAFQAw%3D%3D​)to [here](https://www.google.com/maps/place/Bah%C3%ADa+Lapataia/@-54.8563486,-68.5876527,2574m/data=!3m1!1e3!4m15!1m8!3m7!1s0xbc4c22b5bad109bf:0x5498473dba43ebfc!2sV9410+Ushuaia,+Tierra+del+Fuego+Province,+Argentina!3b1!8m2!3d-54.8076116!4d-68.3058409!16zL20vMDF6ZG5z!3m5!1s0xbc4c2e35d7f96e93:0xd414aa707097f6c2!8m2!3d-54.855246!4d-68.5765377!16s%2Fg%2F11cs9wd56v?entry=ttu&g_ep=EgoyMDI2MDgxMC4wIKXMDSoASAFQAw%3D%3D), this way I can swim in the Arctic ocean to begin, and swim in the beagle channel, where the Pacific and Atlantic ocean meet in Ushuaia, to end. 
+
+Why though? A good question without a clear answer. Maybe its because I hate American society and need to escape! Maybe because I love culture and want to see as much variety as possible. Maybe because I am just bored and have nothing better going on in my life. Could be any or all of these things. Honestly I don't even know most of the time. I go through phases of just wanting or feeling like I need to escape society and I can't fit in, or I just don't appreciate what it does for me when I'm immersed. Then I switch to just wanting to do something hard and climb the biggest mountain and bike the furthest distance. I also have periods where I want to just tell stories. I don't specifically know why and honestly I don't want or need to know why, I don't need a palatable and rational reason to make major life decisions. It's my party and I can bike across the world if I want to. 
+
+But anyway the idea is pretty wild and I am working hard to make it happen. I have two jobs right now, both cooking and I essentially spend no money on things that don't relate to the happening of my trip. I am pretty hard-headedly (word?) set on making it happen, so I suppose it will. 
+
+As of writing this on Aug 19, 2026 I am still just focused on big picture stuff like gear decisions, and dreaming up places I want to see on the first half, and trying to start planning for [[The Dalton Highway]]. There isn't too much more to say about this because all the shit right now is pretty boring and I don't really care enough about my gear and training stuff to write about it. But uhh it'll get better once I actually go into motion. 

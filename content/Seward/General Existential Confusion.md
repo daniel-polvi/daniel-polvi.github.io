@@ -1,9 +1,8 @@
 ---
-title: Death and Confusion
+title: General Existential Confusion
 draft: false
 tags:
-  - Alaska
-  - "#Seward"
+  - biographical
 created: 2026-07-23
 ---
 

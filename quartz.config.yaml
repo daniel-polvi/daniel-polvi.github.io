@@ -207,11 +207,11 @@ plugins:
       provider: giscus
       options:
         repo: Daniel-polvi/Daniel-polvi.github.io
-	repoId: R_kgDOSwZglg
-	category: Announcements
-	categoryId: DIC_kwDOSwZgls4DIrG1
-	lang: en
-    layout:
+        repoId: R_kgDOSwZglg
+        category: Announcements
+        categoryId: DIC_kwDOSwZgls4DIrG1
+        lang: en
+     layout:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer

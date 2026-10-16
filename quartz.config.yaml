@@ -206,7 +206,7 @@ plugins:
     options:
       provider: giscus
       options:
-	repo: Daniel-polvi/Daniel-polvi.github.io
+        repo: Daniel-polvi/Daniel-polvi.github.io
 	repoId: R_kgDOSwZglg
 	category: Announcements
 	categoryId: DIC_kwDOSwZgls4DIrG1

@@ -1,5 +1,5 @@
 ---
-title: DAN'S WEBSITE
+title:
 draft: false
 subtitle: A chronicle of my life, for your eyes only
 ---

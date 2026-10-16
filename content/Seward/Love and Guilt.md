@@ -3,6 +3,7 @@ title: Love and Guilt
 draft: true
 created: 2026-08-28
 tags:
+  - Philosophy
 ---
 The past few weeks and peaking the previous few days I have been caught up about two main things. First of all: you can do nothing these days without blood on your hands. Secondarily: Love is the hardest, but most important thing. These two things could fill books on their own, but I'll cram them into one freeform essay, that hopefully isn't too long, because I think they are inherently related. 
 ​

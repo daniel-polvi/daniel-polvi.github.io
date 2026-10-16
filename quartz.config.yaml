@@ -211,7 +211,7 @@ plugins:
         category: Announcements
         categoryId: DIC_kwDOSwZgls4DIrG1
         lang: en
-     layout:
+    layout:
       position: afterBody
       priority: 10
   - source: github:quartz-community/footer

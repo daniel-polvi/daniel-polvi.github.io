@@ -16,8 +16,9 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      title: Nabla
+      header: Nabla
+      body: Nabla
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -31,6 +32,7 @@ configuration:
         highlight: rgba(143, 159, 169, 0.15)
         textHighlight: "#fff23688"
       darkMode:
+        enabled: false
         light: "#161618"
         lightgray: "#393639"
         gray: "#646464"

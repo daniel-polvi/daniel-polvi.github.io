@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       title: Nabla
-      header: Nabla
+      header: Times New Roman
       body: Times New Roman
       code: IBM Plex Mono
     colors:

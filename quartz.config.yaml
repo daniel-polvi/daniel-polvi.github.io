@@ -18,7 +18,7 @@ configuration:
     typography:
       title: Nabla
       header: Nabla
-      body: Nabla
+      body: Times New Roman
       code: IBM Plex Mono
     colors:
       lightMode:

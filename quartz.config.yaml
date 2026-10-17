@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Go Home
+  pageTitle: Home
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -17,8 +17,8 @@ configuration:
     cdnCaching: true
     typography:
       title: Nabla
-      header: Hedvig Letters Serif
-      body: Hedvig Letters Serif
+      header: Comic Relief
+      body: Comic Relief
       code: IBM Plex Mono
     colors:
       lightMode:

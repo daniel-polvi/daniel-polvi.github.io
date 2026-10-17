@@ -2,6 +2,7 @@
 title:
 draft: false
 subtitle: A chronicle of my life, for your eyes only
+comments: false
 ---
 Welcome to my website!!! 
 

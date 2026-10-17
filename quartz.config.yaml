@@ -213,6 +213,7 @@ plugins:
         category: Announcements
         categoryId: DIC_kwDOSwZgls4DIrG1
         lang: en
+        reactionsEnabled: false
     layout:
       position: afterBody
       priority: 10

@@ -1,8 +1,9 @@
 ---
 title:
 draft: true
-created: "2026-10-16"
+created: 2026-10-16
 tags:
+comments: true
 ---
 Daniel James Polvi is my name, daniel-polvi.github.io is my domain.
 

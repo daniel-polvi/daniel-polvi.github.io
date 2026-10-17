@@ -1,5 +1,5 @@
 ---
-title:
+title: Home
 draft: false
 subtitle: A chronicle of my life, for your eyes only
 comments: false

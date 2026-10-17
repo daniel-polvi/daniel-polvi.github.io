@@ -1,8 +1,9 @@
 ---
-title:
+title: This website
 draft: true
-created: "2026-10-16"
+created: 2026-10-16
 tags:
+comments: true
 ---
 This website serves to be a collection and examination of life through the perspective of [[me]]. 
 

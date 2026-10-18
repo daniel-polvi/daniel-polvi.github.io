@@ -17,8 +17,8 @@ configuration:
     cdnCaching: true
     typography:
       title: Nabla
-      header: Comic Relief
-      body: Comic Relief
+      header: Inter
+      body: Inter
       code: IBM Plex Mono
     colors:
       lightMode:

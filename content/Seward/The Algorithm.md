@@ -1,6 +1,6 @@
 ---
 title: The Algorithm
-draft: true
+draft: false
 created: 2026-09-14
 tags:
   - Philosophy

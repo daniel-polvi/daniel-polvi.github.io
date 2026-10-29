@@ -1,6 +1,6 @@
 ---
 title: I Am Not a Documentarian
-draft: true
+draft: false
 created: 2026-09-21
 tags:
   - Philosophy

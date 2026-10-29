@@ -46,7 +46,7 @@ plugins:
   - source: github:quartz-community/created-modified-date
     enabled: true
     options:
-      defaultDateType: "created"
+      defaultDateType: created
       priority:
         - frontmatter
         - filesystem
@@ -254,6 +254,10 @@ plugins:
       position: afterBody
       priority: 15
       display: all
+  - source: github:quartz-community/tui
+    enabled: true
+    options: {}
+    order: 50
 layout:
   groups:
     toolbar:

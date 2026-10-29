@@ -129,7 +129,7 @@ plugins:
       enableSiteMap: true
       enableRSS: true
   - source: github:quartz-community/favicon
-    enabled: true
+    enabled: false
   - source: github:quartz-community/og-image
     enabled: true
   - source: github:quartz-community/cname
@@ -186,13 +186,13 @@ plugins:
       position: left
       priority: 10
   - source: github:quartz-community/darkmode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 30
       group: toolbar
   - source: github:quartz-community/reader-mode
-    enabled: true
+    enabled: false
     layout:
       position: left
       priority: 35

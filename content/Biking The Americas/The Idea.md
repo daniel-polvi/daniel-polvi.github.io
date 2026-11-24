@@ -1,8 +1,8 @@
 ---
-title: Crazy Idea
+title: The Idea
 draft: false
 tags:
-  - "#BIKE"
+  - planning
 created: 2026-08-11
 ---
 I am formulating a plan to bike from Prudhoe Bay, Alaska to Ushuaia, Argentina. More specifically from [here](https://www.google.com/maps/place/East+Dock,+Arctic+Ocean/@70.312355,-148.3321772,1935m/data=!3m1!1e3!4m15!1m8!3m7!1s0xbc4c22b5bad109bf:0x5498473dba43ebfc!2sV9410+Ushuaia,+Tierra+del+Fuego+Province,+Argentina!3b1!8m2!3d-54.8076116!4d-68.3058409!16zL20vMDF6ZG5z!3m5!1s0x5120759a3e1e02bd:0x292409c926208f60!8m2!3d70.31438!4d-148.3182545!16s%2Fg%2F11tcsd8t1k?entry=ttu&g_ep=EgoyMDI2MDgxMC4wIKXMDSoASAFQAw%3D%3D​)to [here](https://www.google.com/maps/place/Bah%C3%ADa+Lapataia/@-54.8563486,-68.5876527,2574m/data=!3m1!1e3!4m15!1m8!3m7!1s0xbc4c22b5bad109bf:0x5498473dba43ebfc!2sV9410+Ushuaia,+Tierra+del+Fuego+Province,+Argentina!3b1!8m2!3d-54.8076116!4d-68.3058409!16zL20vMDF6ZG5z!3m5!1s0xbc4c2e35d7f96e93:0xd414aa707097f6c2!8m2!3d-54.855246!4d-68.5765377!16s%2Fg%2F11cs9wd56v?entry=ttu&g_ep=EgoyMDI2MDgxMC4wIKXMDSoASAFQAw%3D%3D), this way I can swim in the Arctic ocean to begin, and swim in the beagle channel, where the Pacific and Atlantic ocean meet in Ushuaia, to end. 

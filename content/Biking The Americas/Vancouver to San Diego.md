@@ -4,7 +4,6 @@ draft: false
 created: 2026-09-11
 tags:
   - planning
-  - BIKE
 ---
 The next section will be Vancouver to San Diego, the North South length of the contiguous  United States. 
 

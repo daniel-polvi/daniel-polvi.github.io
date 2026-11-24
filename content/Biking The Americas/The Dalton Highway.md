@@ -3,7 +3,6 @@ title: The Dalton Highway
 draft: false
 created: 2026-08-19
 tags:
-  - BIKE
 ---
 [The Dalton highway](https://en.wikipedia.org/wiki/Dalton_Highway)is the road from Prudhoe Bay to Fairbanks, a very remote and gnarly ice road, starting (ending) at the Arctic Ocean, crossing the north slope, passing over the brooks range, and rolling into Fairbanks.  The logistics on this section of road are potentially the trickiest in the world, due to its remoteness and complete lack of services. Prudoe Bay is a serious contender for the end of the world, maybe second only to Utqiagvik (farther north, but off the road system) this makes it a great and totally reasonable place to start my bike trip across the world!
 

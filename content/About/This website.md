@@ -7,10 +7,10 @@ comments: true
 ---
 This website serves to be a collection and examination of life through the perspective of [[me]]. 
 
-Here you can read all about traveling the world by bike, more so once I do it. 
+You will read about traveling the Americas by bike.
 
-Here you can also read various philosophical rambles I create 
+You will also read various philosophical and economic ideas I discover on the way.
 
-I really do hate to call it a blog but that ultimately is what it is. It is a logging of, for better or for worse, a lot of what I write. 
+I am going to travel the world and write about it as I go. I started this website after I graduated university and moved to Alaska to stack some cash for a year so I can bike the Americas (see [[biking/]] for more). Who knows where life will take me after that, but it is my goal to thoroughly travel the world in order to develop understanding about the wide variety of conditions in which human life exists. 
 
-I am going to travel the world and write about it as I go. I created this website after I graduated university and moved to Alaska to stack some cash for a year so I can bike the Americas (see [[biking]] for more). Who knows where life will take me after that, but it is my dream to travel the world I am going to do it. 
+This website is not intended to be polished and or cohesive. It is more a playground for me to informally publish stuff. I find the idea that people can see the process along the way interesting and "working with the door open" can open up opportunities for collaboration and hold me to a higher standard. 

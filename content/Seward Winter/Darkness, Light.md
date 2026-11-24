@@ -1,0 +1,38 @@
+---
+title: Darkness, Light
+draft: false
+created: 2026-11-13
+tags:
+comments: true
+---
+Its so freaking dark here all the time. 
+
+Not all the time, actually the sun is out right now which is amazing and beautiful beyond comprehension. The buildup of snow and change of color on the hills is revealed in dramatic fashion whenever the sun decides to come out for one day between the continuity of rain and sleet. 
+
+Again today I was asked why I came up to Alaska, at the hippie store buying some crystal deodorant - well see if it works, must be better than nothing which what I've been doing for months. The lady working, Ash, asked me if I'm a local or just visiting, I'm not a local, but I'm more than just visiting. I have a job and apartment and am relatively integrated into the community, but I am not a local, so yeah I am just visiting but for long time. But I just told her I just moved up here a few months ago. She naturally asked why and again I didn't really know what to say. Like how much do I want to explain to this poor woman who is just trying to sell me some soap and deodorant. 
+
+Should I go into all the detail about how I just want an epic adventure and I don't think material possession matters in life besides the bare necessities, which I think she would have agreed with. I could tell her how I want to write and be alone for a while. Or I could tell her I want to bike and am just saving money. So many things about my life I could have told her about this massive three letter question: why? 
+
+But instead I just told her I'm here for fun. That's a surface level truth, but a truth regardless. We exchanged names and she told me she hopes I come back. I told her I probably will. 
+
+Oh but the darkness, I forget about the darkness because its light today. Olivia texted me yesterday and asked if I'll be here in march during her spring break. Probably, yeah but I'm hella going to Asia sometime near then. I just need to figure out if I'm going to get fired from my job because of that. I would be okay with that outcome because I care much more about traveling with Mutale than I do about the curious cafeteria crew at AVTEC. It would be really fucking inconvenient if I did though, I would then be homeless in the throws of an Alaskan winter. I'm sure I would survive and probably even enjoy the experience, but it would be really annoying to have to find another job and place to stay, or sell, move, and store all my shit on short notice. 
+
+Karl told me this when I first got here though and I see now what he means, "you pack your fears". In relation to cold and darkness this is very much true for me. I was very worried about being cold and having a shitty living situation, but I just got another jacket and talked to some people now I am warm enough and have a house. So what was I afraid of? The unknowns were scaring me. More specifically the thought that I somehow wouldn't be able to handle the unknown. Fuck that thought. Fuck being afraid. Fear is the little death, the mind killer. It's a natural thing to be afraid and its healthy to listen to rational fears, but it's exhilarating and illuminating to face life head on and do it afraid sometimes. Psychedelic too, to face fear that is. 
+
+Psychedelic is a word I love, and one that means so much. The English word comes from two greek root works: psyche: soul, or more literally "breath", or "that which animates life", and Delos: to make clear. These two greek words with the English suffix 'ic' meaning pertaining to, create the word psychedelic. A concise definition is hard to pin down, but I propose the following; Psychedelic (adj): describing an experience, or phenomenon that elicits a state of consciousness in which the soul is made clear to its possessor. 
+
+A state of being in which deeper, perhaps previously unknown, parts of the self are brought visibly to the surface. 
+
+Psychedelic experiences are those that make the soul manifest. Experiences that both etch new and reveal old details of your soul previously confined to the subconscious. Drug induced or otherwise I believe psychedelic experiences are necessary to living a spiritually fulfilled life. If the soul is never unveiled you are indeed living ignorantly of so much beauty and mystery that is fundamental to you. 
+
+A very deep conviction I have developed is you must go through some period darkness to appreciate the light for what it is. (feel free to replace darkness with any synonym of pain, and light with any synonym of pleasure) In some sense this pursuit of darkness is why I am in Alaska. But not just suffering for sufferings sake, ironically its actually suffering for pleasures sake. (Maybe I am a masochist, this explains the rock climbing and fixed gear biking at least) But I do not find suffering pleasant during the experience, but I find that I more deeply appreciate pleasure after a painful experience. The fire of love feels warmer to a heart chilled by lonliness. To have an extended psychedelic experience. 
+
+I've had a number of psychedelic experiences, both from drugs and sobering hardships. I don't know who I'd be without these experiences, but ironically because of these experiences I don't know who I am. I guess a big part of who I am is not knowing who I am, and knowing that I don't matter on a scale beyond those who care about me and I care for. 
+
+I don't know what anything is about, this project included. This project of my life. 
+
+Maybe I should name the project, name my philosophy. But you can't name something before its complete without adjusting its course. We name children at birth while they are just crying sponges because its practically necessary to have some label to refer to a new object by; to distinguish it from all the others; have some linguistic handle to grab it by. But for freeform works of art, those that lack a predetermined concept, that which every life is, it is only right to name it after the fact, once its final form has been realized. 
+
+I want to die before my life is over. Meaning I want to grow old and continue to live and dream until my very last day. There is a lot I want to accomplish with my life, and limited time to do it all. To 21 year old ignorant me it feels like I have lived a lot, and for the time I've served so far as an 'adult' I have. I have been to a few places, and lived in a variety of ways. But I am more in the part of the curve where I am just starting to see how very little I know. I know enough to know that I don't even know just how little I know. Maybe theres nothing more romantic than dying with a book still open, halfway through an essay. It will never be completed. You will never know the end of this book, and your reader will never know the end of your thought. Like any good story there is no beginning or end just continuity. 
+
+There is some value in predetermined projects though; things with defined beginning and ends. First, saying: I want to do to this thing, then, figuring out: How do I do this thing, and finally doing it, can be incredibly satisfying, but also in a way unimportant or distracting. Rational projects keep the mind at ease, busy work that may have a veil of meaning. Most things I do feel like this, but there is this background thought that it doesn't really matter. I dislike this thought, and wish I didn't have it. I wish that I could live without this constant nagging of meaninglessness. I think one day I will discover a purpose that gives me genuine meaning. Or one day genuinely internalize the thought that just existing is meaningful enough. Boy I really hope one day I can do that, but I think once you've kissed the nihilistic dragon it's incredibly hard to live faith. 

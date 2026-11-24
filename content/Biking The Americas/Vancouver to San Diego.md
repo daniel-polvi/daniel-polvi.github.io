@@ -1,5 +1,5 @@
 ---
-title:
+title: Vancouver to San Diego
 draft: false
 created: 2026-09-11
 tags:

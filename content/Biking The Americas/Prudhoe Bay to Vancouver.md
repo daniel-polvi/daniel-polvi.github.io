@@ -1,5 +1,5 @@
 ---
-title:
+title: Prudhoe Bay to Vancouver
 draft: false
 created: 2026-09-10
 tags:

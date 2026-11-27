@@ -11,5 +11,4 @@ Prudhoe Bay to Squamish/ Vancouver. Approximately 2600 Miles mostly thru wildern
 
 I think this section will take like 2 months leaving me in Vancouver around mid August. I want to bike over to Richland to see my place of birth, but I don't want to get cooked in the high plains. Probably just bum in Squamish, then head east once it cools down some and south once it gets real cold, but ill be immune to cold my then. Well not immune, but prepared. 
 
-
-Map: https://www.google.com/maps/d/edit?mid=1VNLyGLElGy_dQxCqqnwFlEK1BLKyffQ&usp=sharing 
+<iframe src="https://www.google.com/maps/d/embed?mid=1VNLyGLElGy_dQxCqqnwFlEK1BLKyffQ&ehbc=2E312F" width="640" height="480"></iframe>
